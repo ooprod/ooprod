@@ -1,0 +1,3 @@
+[submodule "theme/podcast-theme"]
+	path = theme/podcast-theme
+	url = https://github.com/ooprod/podcast-theme.git
