@@ -1,0 +1,43 @@
+baseURL = "https://ooprod.ru/"
+DefaultContentLanguage = "ru"
+languageCode = "ru"
+title = "ООП и в продакшн" 
+copyright="Подкаст \"ООП и в продакшн\""
+googleAnalytics = "UA-123-45"
+
+
+themedir = "themes"
+theme="podcast-theme"
+
+[params]
+  author = "ooprod.ru"
+  description = "Расслабленные беседы об информационных технологиях с легким образовательным послевкусием"
+  type = "episodic" # or serial (see https://help.apple.com/itc/podcasts_connect/#/itcb54353390)
+  ownerName = "Ivan Belyavtsev"
+  ownerEmail = "djbelyak@gmail.com"
+  category = "Technology" # (see https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12)
+  subcategory = "Software How-To" # Erase if you haven't it
+  artwork = "/images/artwork.png"
+  explicit = "no"
+  #debugCSS = true # show a layout without details
+  withoutMinification = true
+
+[menu]
+
+  [[menu.main]]
+    name = "Домой"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Выпуски подкаста"
+    url = "/podcast/"
+    weight = 2
+
+  #[[menu.main]]
+  #  name = "Подписки"
+  #  url = "/subscription/"
+  #  weight = 3
+
+[blackfriday] 
+  hrefTargetBlank = true
