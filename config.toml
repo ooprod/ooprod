@@ -20,7 +20,7 @@ theme="podcast-theme"
   artwork = "/images/artwork.png"
   explicit = "no"
   #debugCSS = true # show a layout without details
-  withoutMinification = true
+  #withoutMinification = true
 
 [menu]
 
