@@ -3,7 +3,7 @@ DefaultContentLanguage = "ru"
 languageCode = "ru"
 title = "ООП и в продакшн" 
 copyright="Подкаст \"ООП и в продакшн\""
-googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-71522545-6"
 
 
 themedir = "themes"
@@ -21,6 +21,7 @@ theme="podcast-theme"
   explicit = "no"
   #debugCSS = true # show a layout without details
   #withoutMinification = true
+  yandexMetrika = "53928256"
 
 [menu]
 
