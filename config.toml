@@ -27,7 +27,7 @@ theme="podcast-theme"
   #withoutMinification = true
 
   # google podcast feed
-  googlePodcastFeed = "aHR0cHM6Ly9vb3Byb2QucnUvcG9kY2FzdC9pbmRleC54bWw%3D"
+  googlePodcastFeed = "aHR0cHM6Ly9vb3Byb2QucnUvcG9kY2FzdC9pbmRleC54bWw="
 
   # yandex metrika
   yandexMetrika = "53928256"
