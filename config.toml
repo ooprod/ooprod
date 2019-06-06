@@ -17,7 +17,7 @@ theme="podcast-theme"
   ownerName = "Ivan Belyavtsev"
   ownerEmail = "djbelyak@gmail.com"
   category = "Technology" # (see https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12)
-  subcategory = "Software How-To" # Erase if you haven't it
+  # subcategory = "Software How-To" # Erase if you haven't it
   artwork = "/images/artwork.png"
   explicit = "no"
   itunesLink = "https://geo.itunes.apple.com/ru/podcast/%D0%BE%D0%BE%D0%BF-%D0%B8-%D0%B2-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%88%D0%BD/id1465231106?mt=2&app=itunes"
@@ -25,6 +25,9 @@ theme="podcast-theme"
   # debug features
   #debugCSS = true # show a layout without details
   #withoutMinification = true
+
+  # google podcast feed
+  googlePodcastFeed = "aHR0cHM6Ly9vb3Byb2QucnUvcG9kY2FzdC9pbmRleC54bWw%3D"
 
   # yandex metrika
   yandexMetrika = "53928256"
