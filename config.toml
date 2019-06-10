@@ -29,6 +29,9 @@ theme="podcast-theme"
   # google podcast feed
   googlePodcastFeed = "aHR0cHM6Ly9vb3Byb2QucnUvcG9kY2FzdC9pbmRleC54bWw="
 
+  # yandex music album
+  yandexMusicAlbum = "7718113"
+
   # yandex metrika
   yandexMetrika = "53928256"
 
