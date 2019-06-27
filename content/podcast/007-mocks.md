@@ -2,7 +2,7 @@
 episodeType = "full" # "full", "trailer" or "bonus"
 episode = "7" # required for full episodes
 season = "1" # required for full episodes
-title = "007. 007. Mockай меня полностью"
+title = "007. Mockай меня полностью"
 explicit = "no"
 audio = "https://ooprod.ru/audio/ooprod-007.mp3" # full URL to podcast audio
 audioSize = 111416948 # make a HTTP HEAD request to audio URL and check a Content-Length header

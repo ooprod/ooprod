@@ -8,6 +8,7 @@ googleAnalytics = "UA-71522545-6"
 
 themedir = "themes"
 theme="podcast-theme"
+enableRobotsTXT=true
 
 [params]
   # itunes settings
@@ -55,3 +56,8 @@ theme="podcast-theme"
 
 [blackfriday] 
   hrefTargetBlank = true
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
