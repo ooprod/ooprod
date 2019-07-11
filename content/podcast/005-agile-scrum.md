@@ -9,7 +9,7 @@ audioSize = 130952358 # make a HTTP HEAD request to audio URL and check a Conten
 audioType = "audio/mpeg"
 audioDuration = 4066 # in seconds
 date = 2019-06-05T20:30:00+03:00
-video = ""
+video = "ap5GFMbMv0Y"
 tags = ["agile", "scrum", "подкаст", "оопивпродакшн"]
 +++
 
